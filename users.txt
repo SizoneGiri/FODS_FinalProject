@@ -1,0 +1,2 @@
+gsizone,Sizone Giri,student,11228,20
+CZ,carl zonshon,admin,1232,26
